@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "project_number": "581118858705",
+    "firebase_url": "https://hafefly-android-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hafefly-android",
+    "storage_bucket": "hafefly-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581118858705:android:cb3fb03a6c7e03d052fcf0",
+        "android_client_info": {
+          "package_name": "com.raynmore.nhafeflek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581118858705-toec3niq797uia0c9qkhtqvh0kcjvi2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpgzlVagJEBjfu7ZDe-XFWd82kE35Xhc"
+        },
+        {
+          "current_key": "AIzaSyDk_2ikbW8uu1iSJb4EL2f28OSdg_FEHM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581118858705-toec3niq797uia0c9qkhtqvh0kcjvi2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581118858705-6kaqdpv0p7q835i6ijmla51g8i20qc0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raynmore.nhafeflek"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581118858705:android:040a0691025ddf6952fcf0",
+        "android_client_info": {
+          "package_name": "com.raynmore.nhafeflek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581118858705-toec3niq797uia0c9qkhtqvh0kcjvi2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpgzlVagJEBjfu7ZDe-XFWd82kE35Xhc"
+        },
+        {
+          "current_key": "AIzaSyDk_2ikbW8uu1iSJb4EL2f28OSdg_FEHM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581118858705-toec3niq797uia0c9qkhtqvh0kcjvi2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581118858705-6kaqdpv0p7q835i6ijmla51g8i20qc0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raynmore.nhafeflek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
